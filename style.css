@@ -5,4 +5,11 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
+    height: 700px;
+    margin: 0px;
+}
+button{
+    background: blue;
+    color: turquoise;
+    font-family: 'Times New Roman', Times, serif;
 }
